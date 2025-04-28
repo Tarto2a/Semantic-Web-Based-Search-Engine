@@ -3,12 +3,7 @@ Objective: Develop a search engine that enriches search results with semantic co
 
 # installation
 ```cmd
-cd backend
-npm i
-cd ..
-cd frontend
-npm i
-cd ..
+cd backend && npm i && cd .. && cd frontend && npm i && cd ..
 ```
 
 # Run server
